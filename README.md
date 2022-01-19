@@ -18,9 +18,9 @@ Benefits of using JsonPowerDB
 
 
 
-# Login2explore_Demo_Proj
+# Login2explore_project_ayushi_agrawal
 
-jdb.png
+
 demonstration of login2explore project
 
 
